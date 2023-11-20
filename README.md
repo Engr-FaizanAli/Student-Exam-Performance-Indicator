@@ -1,1 +1,1 @@
-##End to end ml project
+## This model is trained to predict Student Exam Performace depending on 7 variables from a given dataset. Exploratory Data Analysis was done to get Insights from data using jupyter notebook and prepare data for training. 
